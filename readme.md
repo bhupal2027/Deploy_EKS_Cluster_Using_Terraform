@@ -184,6 +184,3 @@ terraform destroy -var-file="terraform.tfvars"
 - Use S3 backend + DynamoDB lock for team projects
 
 ---
-
-If you want, I can add a **backend.tf**, **GitHub Actions CI/CD**, or **architecture diagram** section.
-
